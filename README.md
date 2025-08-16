@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.202.0.VNEMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: degas
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.202.0.VNEMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/degas_global/degas:14/UP1A.231005.007/OS2.0.202.0.VNEMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.202.0.VNEMIXM-release-keys
+- repo: xiaomi_degas_dump
